@@ -38,3 +38,9 @@ Creating useful digital experiences through code, web technologies, and AI.
 ---
 
 Thanks for visiting my profile! 💙
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimiya-kamyab&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimiya-kamyab&layout=compact&theme=tokyonight)
+ر
