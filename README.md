@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**kimiya-kamyab/kimiya-kamyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Kimiya Kamyab 👋
+Web Developer | Python Developer | AI Enthusiast
+I build modern websites and explore Python, Artificial Intelligence, and Machine Learning to turn ideas into practical digital solutions.
+💻 Tech Stack
+Programming:
+Python
+JavaScript
+Web Development:
+CSS
+HTML
+AI & Data:
+Artificial Intelligence
+Machine Learning
+ What I Do
+- 🌐 Web development and website design
+- 🐍 Python programming
+- 🤖 Exploring AI and Machine Learning
+- 🛠️ Building projects and improving my development skills
+🎯 My Focus
+Creating useful digital experiences through code, web technologies, and AI.
+---
+Thanks for visiting my profile!
